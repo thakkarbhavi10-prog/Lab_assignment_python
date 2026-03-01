@@ -29,7 +29,7 @@
 
 # Lab Assignment - 2 (Price Analysis using Tuple)
 
-prices = tuple(map(float, input("Enter prices of sold items: ").split()))
+# prices = tuple(map(float, input("Enter prices of sold items: ").split()))
 
 # a) Total number of items sold
 # print("Total items sold:", len(prices))
