@@ -12,7 +12,6 @@
 #
 # print("File copied with uppercase content successfully!")
 
-
 # Lab Assignment 2 (Copy Python file without comments)
 # source = input("Enter source Python file: ")
 # destination = input("Enter destination file: ")
